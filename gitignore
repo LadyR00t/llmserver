@@ -1,0 +1,6 @@
+/code_runner/*
+/test/*
+docker-compose.yml
+/logs/*
+poetry.lock
+pyproject.toml
